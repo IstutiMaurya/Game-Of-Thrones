@@ -14,3 +14,9 @@ Background picture:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D146162%26name%3DGame%2BOf%2BThrones%2BWallpapers&psig=AOvVaw0D-F3TQDpMKRrtBCMCeZkb&ust=1685726731172000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDdi8rLov8CFQAAAAAdAAAAABAS
 or
 ![image](https://github.com/IstutiMaurya/Game-Of-Thrones/assets/119088311/cb06029f-fa35-4fe9-8cdc-412ce64db373)
+
+GOT1 (picture 1):
+![photo_2023-06-01_22-59-03](https://github.com/IstutiMaurya/Game-Of-Thrones/assets/119088311/1dcc9a55-76ac-4b19-9553-9f0778bee3d0)
+
+GOT3 (picture 2):
+![photo_2023-06-01_22-58-50](https://github.com/IstutiMaurya/Game-Of-Thrones/assets/119088311/bebee336-9df7-4cc7-a9c7-811c576ea27e)
